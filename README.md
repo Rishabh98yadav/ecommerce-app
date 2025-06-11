@@ -21,11 +21,15 @@ A full-stack basic e-commerce app with user authentication, product listing, car
 
 ### 🛒 Product Listing
 ![Products Page](./screenshots/products.png)
+
 ### 🛒 Product Details
 ![Products Details](./screenshots/productDetails.png)
 
 ### 📦 Cart & Checkout
 ![Cart Page](./screenshots/cart.png)
+
+### 📦 Order History
+![Cart Page](./screenshots/orders.png)
 
 
 
